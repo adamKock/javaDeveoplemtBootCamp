@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\AdamKockelbergh\\Documents\\JavaFZSDK\\lib\\javafx.base.jar",
+        "c:\\Users\\AdamKockelbergh\\Documents\\JavaFZSDK\\lib\\javafx.controls.jar",
+        "c:\\Users\\AdamKockelbergh\\Documents\\JavaFZSDK\\lib\\javafx.fxml.jar",
+        "c:\\Users\\AdamKockelbergh\\Documents\\JavaFZSDK\\lib\\javafx.graphics.jar",
+        "c:\\Users\\AdamKockelbergh\\Documents\\JavaFZSDK\\lib\\javafx.media.jar",
+        "c:\\Users\\AdamKockelbergh\\Documents\\JavaFZSDK\\lib\\javafx.swing.jar",
+        "c:\\Users\\AdamKockelbergh\\Documents\\JavaFZSDK\\lib\\javafx.web.jar",
+        "c:\\Users\\AdamKockelbergh\\Documents\\JavaFZSDK\\lib\\javafx-swt.jar"
+    ]
+}
